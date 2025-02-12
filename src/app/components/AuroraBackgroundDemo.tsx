@@ -18,13 +18,13 @@ export function AuroraBackgroundDemo() {
         className="relative flex flex-col gap-4 items-center justify-center px-4"
       >
         <div className="text-3xl md:text-7xl font-bold dark:text-white text-center">
-          CodeCafe is here
+          codecafé
         </div>
-        <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
-          And you must try it. You've been waiting for this.
+        <div className="font-extralight text-base md:text-3xl dark:text-neutral-200 py-4">
+          Real-Time Code Collaboration Made Easy.
         </div>
         <button className="bg-white dark:bg-white rounded-full w-fit text-black dark:text-black px-4 py-2">
-          Try Now
+          Try It Now
         </button>
       </motion.div>
     </AuroraBackground>

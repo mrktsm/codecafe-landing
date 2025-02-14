@@ -1,9 +1,10 @@
 import { AuroraBackgroundDemo } from "./components/AuroraBackgroundDemo";
 import { MacbookScroll } from "./components/ui/macbook-scroll";
+import { BiSolidCoffeeBean } from "react-icons/bi";
 
 export default function Home() {
   return (
-    <div>
+    <div className="h-full">
       <div className="bg-stone-900 fixed top-0 left-0 right-0 h-screen z-0 " />
       {/* <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <Image
